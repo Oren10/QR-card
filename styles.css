@@ -1,0 +1,56 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  margin: none;
+  font-family: "Outfit", sans-serif;
+}
+
+a {
+  color: hsl(218, 44%, 22%);
+  text-decoration: none;
+}
+
+.QR {
+  width: 331px;
+  height: 343px;
+  position: absolute;
+  left: 22px;
+  top: 40.5px;
+  border-radius: 30px;
+}
+
+.rectangle {
+  width: 375px;
+  height: 600px;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 37px;
+  position: relative;
+  margin: auto;
+  display: block;
+  margin-top: 6em;
+}
+
+.title {
+  font-weight: 700;
+  color: hsl(218, 44%, 22%);
+  position: absolute;
+  top: 21em;
+  left: 1.5em;
+  margin-right: 2em;
+  font-size: larger;
+  text-align: center;
+}
+
+.scan {
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
+  position: absolute;
+  top: 29em;
+  margin-left: 2em;
+  margin-right: 2em;
+  text-align: center;
+}
+
+.myName {
+  color: hsl(218, 44%, 22%);
+  text-align: center;
+}
